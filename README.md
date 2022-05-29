@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ErenA-Dorrammu
+- 👀 I’m interested in Computer,Python,Games,Movies and Series
+- 🌱 I’m currently learning Python
+- 📫 How to reach me is still can stay hidden
