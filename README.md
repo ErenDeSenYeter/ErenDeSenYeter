@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErenA-Dorrammu
+- 👋 Hi, I’m Eren
 - 👀 I’m interested in Computer,Python
 - 🌱 I’m currently learning Python
 - 📫 How to reach me is still can stay hidden
