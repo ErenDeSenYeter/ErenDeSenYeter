@@ -1,3 +1,4 @@
--  Hi, I’m Eren.
+-  I’m Eren.
+-  I’m studying at SUPSI. 
 -  I’m interested in Computer Programming ,Data Analyst, Data Science.
--  I’m currently trying to mastering Python and i'm gonna share my journey.
+-  I’m currently mastering Python and i'm gonna share my journey here as much as possible.
