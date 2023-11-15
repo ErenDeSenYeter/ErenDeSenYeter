@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ErenA </h1>
+<h1 align="center">Hi 👋, I'm Eren </h1>
 <h3 align="center">Student at SUPSI, DSAI🌟.</h3>
 
 <br>
