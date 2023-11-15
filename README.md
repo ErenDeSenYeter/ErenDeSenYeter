@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Python and other programming languages
 
-- 📫 How to reach me **drrmmustdy@gmail.com**
+- 📫 How to reach me is in the links down below
 
 - ⚡ Fun fact : I love video games and TV Series
 
