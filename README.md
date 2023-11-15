@@ -3,7 +3,8 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/ErenDeSenYeter/ErenDeSenYeter/blob/main/animation_500_kxa883sd.gif" alt="ErenDeSenYeter" />
+
 
 
 - 🌱 I’m currently learning Python and other programming languages
