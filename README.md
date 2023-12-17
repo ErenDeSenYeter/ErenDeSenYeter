@@ -10,9 +10,6 @@
 - 🌱 I’m currently learning Python and other programming languages.
 
 - 📫 How to reach me is in the links down below!
-
-- ⚡ Fun fact : I love Books and Hiking.
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
